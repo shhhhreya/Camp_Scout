@@ -1,0 +1,30 @@
+body {
+    height: 100vh;
+    /* background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://res.cloudinary.com/dmbr66tqw/image/upload/v1704535474/YelpCamp/enbpgd4skb4sxn4jdesk.jpg"); */
+    /* background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://res.cloudinary.com/dmbr66tqw/image/upload/v1704530342/YelpCamp/fksxyobvnjy7qqqchys2.webp"); */
+    background-color: rgb(0, 0, 0);
+    background-size: cover;
+    background-position: center;
+    text-shadow: rgb(0, 0, 0,0.8);
+    color: white;
+    
+}
+.card, .list-group-item{
+    /* background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),
+    url("https://res.cloudinary.com/dmbr66tqw/image/upload/v1704530342/YelpCamp/fksxyobvnjy7qqqchys2.webp"); */
+    text-shadow: rgba(0, 0, 0, 0.5);
+    background-color: rgb(0, 0, 0);
+    box-shadow: rgb(177, 255, 211);
+    border:solid rgb(60, 60, 60) 1px;
+}
+
+.req-login{
+    margin-top: 10%;
+    margin-left: 20%;
+    border-bottom:solid rgb(255, 255, 255) 1px;
+    text-align: center;
+    font-size: x-large;
+    font-weight: 700;
+}

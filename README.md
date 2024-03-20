@@ -1,6 +1,9 @@
 ## Project Description
 CampScout is an online platform that enables users to review and assess campgrounds. To submit a review or create a new campground, users are required to have an account. This was developed as part of Colt Steele's web development course on Udemy.
 
+![Uploading image.png…]()
+
+
 The project utilizes technologies such as Node.js, Express, MongoDB, and Bootstrap. For authentication purposes, Passport.js has been integrated into the system.
 
 ## Features
